@@ -1,0 +1,32 @@
+Project documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-11-openjdk-amd64/bin/javadoc
+-sourcepath
+/home/ITIS-EMATTEI/s_cnnlrd02d05l500e/Scrivania/Informatica/Esercizio 4 - Software/Esercizio 4 - Software
+-source
+11
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.11.jar:/usr/share/bluej/hamcrest-core-1.3.jar:/usr/share/bluej/lang-stride.jar:/usr/share/java/javafx-base-11.jar:/usr/share/java/javafx-controls-11.jar:/usr/share/java/javafx-fxml-11.jar:/usr/share/java/javafx-graphics-11.jar:/usr/share/java/javafx-media-11.jar:/usr/share/java/javafx-properties-11.jar:/usr/share/java/javafx-swing-11.jar:/usr/share/java/javafx-web-11.jar:/home/ITIS-EMATTEI/s_cnnlrd02d05l500e/Scrivania/Informatica/Esercizio 4 - Software/Esercizio 4 - Software
+-d
+/home/ITIS-EMATTEI/s_cnnlrd02d05l500e/Scrivania/Informatica/Esercizio 4 - Software/Esercizio 4 - Software/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+Esercizio 4 - Software
+-windowtitle
+Esercizio 4 - Software
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/11/docs/api/
+/home/ITIS-EMATTEI/s_cnnlrd02d05l500e/Scrivania/Informatica/Esercizio 4 - Software/Esercizio 4 - Software/Test.java
+/home/ITIS-EMATTEI/s_cnnlrd02d05l500e/Scrivania/Informatica/Esercizio 4 - Software/Esercizio 4 - Software/Software.java
+<---- end of javadoc command ---->
+Loading source file /home/ITIS-EMATTEI/s_cnnlrd02d05l500e/Scrivania/Informatica/Esercizio 4 - Software/Esercizio 4 - Software/Test.java...
+Loading source file /home/ITIS-EMATTEI/s_cnnlrd02d05l500e/Scrivania/Informatica/Esercizio 4 - Software/Esercizio 4 - Software/Software.java...
+Constructing Javadoc information...
